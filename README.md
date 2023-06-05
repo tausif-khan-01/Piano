@@ -17,7 +17,7 @@ The Piano project is built using HTML, CSS, and JavaScript. It leverages event l
 
 To get started with the Piano project, follow these steps:
 
-1. Clone the repository: `git clone [[repository-url](https://github.com/tausif-khan-01/Piano.git)]`.
+1. Clone the repository: `git clone [https://github.com/tausif-khan-01/Piano.git]`.
 2. Open the project directory in your preferred code editor.
 3. Launch the project by opening the `index.html` file in your web browser.
 
